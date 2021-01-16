@@ -1,0 +1,18 @@
+---
+title: "Albums"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- [Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift_(album)#/media/File:Taylor_Swift_-_Taylor_Swift.png)
+- [Fearless](https://en.wikipedia.org/wiki/Fearless_(Taylor_Swift_album)#/media/File:Taylor_Swift_-_Fearless.png)
+- [Speak Now](https://en.wikipedia.org/wiki/Speak_Now#/media/File:Taylor_Swift_-_Speak_Now_cover.png)
+- [Red](https://en.wikipedia.org/wiki/Red_(Taylor_Swift_album)#/media/File:Taylor_Swift_-_Red.png)
+- [1989](https://en.wikipedia.org/wiki/1989_(Taylor_Swift_album)#/media/File:Taylor_Swift_-_1989.png)
+- [Reputation](https://en.wikipedia.org/wiki/Reputation_(Taylor_Swift_album)#/media/File:Taylor_Swift_-_Reputation.png)
+- [Lover](https://en.wikipedia.org/wiki/Lover_(album)#/media/File:Taylor_Swift_-_Lover.png)
+- [Folklore](https://en.wikipedia.org/wiki/Folklore_(Taylor_Swift_album)#/media/File:Taylor_Swift_-_Folklore.png)
+- [Evermore](https://en.wikipedia.org/wiki/Evermore_(Taylor_Swift_album)#/media/File:Taylor_Swift_-_Evermore.png)
